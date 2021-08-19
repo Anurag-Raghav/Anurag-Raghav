@@ -37,7 +37,7 @@ Hi, I'm Anurag Raghav, a passionate self-taught Full Stack developer.
 
 
 <a href="https://github.com/Anurag-Raghav/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anurag-Raghav&show_icons=true&include_all_commits=true&theme=material-palenight&&count_private=true" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anurag-Raghav&show_icons=true&count_private=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/Anurag-Raghav/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
