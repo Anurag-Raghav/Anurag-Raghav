@@ -43,12 +43,4 @@ Hi, I'm Anurag Raghav, a passionate self-taught Full Stack developer.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Raghav&layout=compact&theme=material-palenight" />
 </a>
-
-<a href="https://github.com/Anurag-Raghav/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag-Raghav&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
-</a> -->
+ 
