@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Anurag Raghav, a passionate self-taught Full Stack developer.
+Hi, I'm Anurag Raghav, a passionate self-taught Full Stack Developer.
 
 - 🔭 I’m currently working on DOOH Software in [Wilyer](https://wilyer.com)
 - 🌱 I’m currently learning Nextjs and Typescript.
